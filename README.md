@@ -1,4 +1,4 @@
-# CodeDNA 🧬
+# CodeDNA 
 
 **Turn any GitHub profile into a living genetic code.**
 
